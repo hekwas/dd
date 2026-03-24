@@ -19,10 +19,10 @@
       "valid_until": "30.03.2026"
     },
     {
-      "key": "BONT-testuser-2026D",
-      "username": "testuser",
-      "valid_from": "01.01.2026",
-      "valid_until": "31.12.2026"
+      "key": "BONT-sab-zsa-2026D",
+      "username": "sab_zsa",
+      "valid_from": "24.03.2026",
+      "valid_until": "25.03.2026"
     }
   ]
 }
