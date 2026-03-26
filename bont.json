@@ -1,5 +1,10 @@
 {
-  "keys": [
+   {
+      "key": "BONT-promoter-2026A",
+      "username": "N0t_Raul",
+      "valid_from": "13.03.2026",
+      "valid_until": "25.03.2026"
+    },
     {
       "key": "BONT-danimocanudacialogan-2026A",
       "username": "danimocanudacialogan",
