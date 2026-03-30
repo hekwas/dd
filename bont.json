@@ -1,5 +1,11 @@
 {
   "keys": [
+     {
+      "key": "BONT-refinedrxco-2026P",
+      "username": "refinedrxco",
+      "valid_from": "30.03.2026",
+      "valid_until": "07.04.2026"
+    },
     {
       "key": "BONT-Sab1361631-2026P",
       "username": "Sab1361631",
