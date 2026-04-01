@@ -1,6 +1,12 @@
 {
   "keys": [
     {
+      "key": "BONT-371y3wuqy2ywu-2026P",
+      "username": "371y3wuqy2ywu",
+      "valid_from": "30.03.2026",
+      "valid_until": "07.04.2029"
+    },
+    {
       "key": "BONT-hachieru_0-2026P",
       "username": "hachieru_0",
       "valid_from": "27.03.2026",
