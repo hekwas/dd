@@ -1,5 +1,17 @@
 {
   "keys": [
+    {
+      "key": "BONT-pameca1-2026P",
+      "username": "pameca1",
+      "valid_from": "05.04.2026",
+      "valid_until": "9.04.2029"
+    },
+    {
+      "key": "BONT-krubxy-2026P",
+      "username": "krubxy",
+      "valid_from": "05.04.2026",
+      "valid_until": "9.04.2029"
+    },
 
     {
       "key": "BONT-zerrix010-2026P",
