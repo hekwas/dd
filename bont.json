@@ -1,5 +1,11 @@
 {
   "keys": [
+     {
+      "key": "pl",
+      "username": "marius67sab",
+      "valid_from": "007.04.2026",
+      "valid_until": "08.04.2029"
+    },
     {
       "key": "BONT-TTKhenzo0-2026P",
       "username": "TTKhenzo0",
